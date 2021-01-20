@@ -9,5 +9,5 @@ alone.
 
 LinkBit is a ERC20-Token, which will be created by using some Copy-and-Paste
 Code found randomly on the internet. The number of available tokens will be
-limited to 1000000 (one million), and can only be sent, bought and sold by in-
-crements of 1.
+limited to 1000000 (one million), and can only be sent, bought and sold by 
+increments of 1.
